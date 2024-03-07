@@ -1,0 +1,35 @@
+.navbar{
+display: flex;
+margin: 1% 2%;
+background-color: #A4A39F;
+}
+
+.navbar a {
+text-decoration: none;
+    margin: 2%;
+    color: black;
+    color: white;
+    
+}
+
+.navbar span{
+
+    padding: 0.5rem 6rem;
+   
+}
+
+.navbar span:hover{
+    background-color: #991F48;
+}
+
+.headcontent{
+    margin-left: 1%;
+}
+
+header{
+    padding:0.5%;
+}
+
+header h1{
+    color:  #991F48;
+}
